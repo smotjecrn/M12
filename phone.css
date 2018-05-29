@@ -5,6 +5,7 @@ body{
 }
 
 p{
+  font-family: sans-serif;
 
   }
 h1{
@@ -75,7 +76,7 @@ li{
 
 }
 #menu{
-  height: 140px;
+  height: 160px;
   width: 100%;
   position: absolute;
   top: 60px;
